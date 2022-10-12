@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WYu22ik2VlielT7eDNj1zbo9e+M9uclf01cksgrX/yk=",
+  "Source": "Web.Api.FluxoDeCaixa.Lancamento",
+  "BasePath": "_content/Web.Api.FluxoDeCaixa.Lancamento",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

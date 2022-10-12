@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26e5bced-9aff-42b5-ae48-6758b7b2159b": {
+      "ProjectGuid": "26e5bced-9aff-42b5-ae48-6758b7b2159b",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Conta",
+      "ColorIndex": 0
+    },
+    "715f0e3c-241e-46cd-b2db-c4474b0242a1": {
+      "ProjectGuid": "715f0e3c-241e-46cd-b2db-c4474b0242a1",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Lancamento",
+      "ColorIndex": 1
+    },
+    "737e39d9-9fe2-40a5-b464-0c5a14ec0666": {
+      "ProjectGuid": "737e39d9-9fe2-40a5-b464-0c5a14ec0666",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Relatorios",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "f8703608-ddce-4da6-bd88-c6b231841885": {
+      "ProjectGuid": "f8703608-ddce-4da6-bd88-c6b231841885",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Relatorios.Testes",
+      "ColorIndex": 3
+    },
+    "e03f20e8-67f4-4ea5-84fc-bbbe85e743d2": {
+      "ProjectGuid": "e03f20e8-67f4-4ea5-84fc-bbbe85e743d2",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Conta.Testes",
+      "ColorIndex": 4
+    },
+    "c0505e21-69bd-4d1c-bc02-b3baae8b7805": {
+      "ProjectGuid": "c0505e21-69bd-4d1c-bc02-b3baae8b7805",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Lancamento.Testes",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

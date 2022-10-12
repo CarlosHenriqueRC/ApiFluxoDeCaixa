@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71807ec1-f977-4b60-898b-040a64fdb00c": {
+      "ProjectGuid": "71807ec1-f977-4b60-898b-040a64fdb00c",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Relatorios",
+      "ColorIndex": 0
+    },
+    "db0d666f-2762-4034-b95c-7711a8108353": {
+      "ProjectGuid": "db0d666f-2762-4034-b95c-7711a8108353",
+      "DisplayName": "Web.Api.FluxoDeCaixa.Relatorios.Testes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

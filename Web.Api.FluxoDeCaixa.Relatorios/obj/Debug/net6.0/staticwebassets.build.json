@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aPLzXKc4Zt5CeGFaRQzocsPGYU42iR4w3xOXZK1jntY=",
+  "Source": "Web.Api.FluxoDeCaixa.Relatorios",
+  "BasePath": "_content/Web.Api.FluxoDeCaixa.Relatorios",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
